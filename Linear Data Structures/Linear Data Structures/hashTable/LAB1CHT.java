@@ -81,7 +81,7 @@ public class LAB1CHT {
 				String s2[]=randomStrings(n);
 				System.out.println("The avg time taken for CuckooHashTable deletion for "+i+"th iteration is: "+CHTdelete(s2,n));
 	}
-		System.out.println("\n\nE.O.O")
+		System.out.println("\n\nE.O.O");
 	}
 
 }
