@@ -254,7 +254,9 @@ public class CuckooHashTable<AnyType>
  {
      currentSize = 0;
      for( int i = 0; i < array.length; i++ )
+     {
          array[ i ] = null;
+ }
  }
  
 
